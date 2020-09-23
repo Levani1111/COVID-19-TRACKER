@@ -8,7 +8,7 @@
 - FLEXBOX
 - CSS
 - JavaScript
-- disease.sh - API calls to a movie service
+- disease.sh - API calls to the covid-19 countries
 - Delpoy on Firebase hosting
 
 #### Deployment
