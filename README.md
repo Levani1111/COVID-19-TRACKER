@@ -1,6 +1,6 @@
 # COVID-19 TRACKER
 
-##### Tech
+#### Tech
 
 - React.JS
 - MATERIAL UI
@@ -11,7 +11,7 @@
 - disease.sh - API calls to a movie service
 - Delpoy on Firebase hosting
 
-##### Deployment
+#### Deployment
 
 https://covid-19-tracker-8fcb4.web.app/
 
