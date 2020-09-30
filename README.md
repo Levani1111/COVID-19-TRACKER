@@ -1,5 +1,7 @@
 # COVID-19 TRACKER
 
+This is COVID-19 TRACKER. It shows Coronavirus Cases, Recovered, Deaths, Live Cases by Country, Worldwide, and Worldwide new deaths.
+
 #### Tech
 
 - React.JS
